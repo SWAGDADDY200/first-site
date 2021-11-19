@@ -1,0 +1,18 @@
+body{
+    background-color:#222831;
+}
+
+h1.any{
+    color: aqua;
+}
+label.suggthing{
+    position: relative;
+    bottom: 140px;
+    color: white;
+}
+
+div.sugg1{
+    position: relative;
+    top: 100px;
+    left: 500px;
+}
