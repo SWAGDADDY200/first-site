@@ -1,0 +1,96 @@
+img.logo{
+    position: relative;
+    right: 10px;
+    bottom: 6px;
+}
+
+body{
+    background: #222831;
+}
+
+h1.welcum{
+    position: relative;
+    left: 600px;
+    font-size: 50px;
+    color:#00FFF5;
+
+}
+
+p.site{
+    font-size: 20px;
+    color:white;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #00FFF5  ;
+
+}
+
+a.carpage{
+    position: relative;
+    left: 500px;
+    font-size: 50px;
+    top: 100px;
+}
+
+h3.about{
+    color: #00FFF5;
+    position: relative;
+    left: 500px;
+    font-size: 45px;
+    top: 240px;
+    border-bottom: 2px soild white;
+
+}
+
+p.fromthing{
+    color: white;
+    font: 20px;
+    position: relative;
+    top: 250px;
+    left: 10px;
+}
+
+p.rights{
+    color: white;
+    position: relative;
+    top: 500px;
+
+}
+
+h2.letgetcar{
+    color: #00FFF5;
+    position: relative;
+    left: 50px;
+}
+
+img.whitepeople{
+    position: relative;
+    top: 280px;
+    left: 40px;
+}
+
+h5.social{
+    position: relative;
+    top: 200px;
+    left: 500px;
+    color: #00FFF5;
+    font-size: 40px;
+}
+a.socail1{
+    position: relative;
+    top: 200px;
+    left: 600px;
+    font-size: 50px;
+}
+
+img.gif{
+    position: relative;
+    left: 500px;
+}
+
